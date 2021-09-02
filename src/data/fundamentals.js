@@ -5,7 +5,7 @@ export const fundamentalsCollection = {
 			name: "HTML",
 			skills: [
 				{
-					name: "Syntax",
+					name: "이산수학",
 					description: {
 						text: "Learn the basics of HTML and get comfortable with it's syntax and main concepts.",
 						links: [

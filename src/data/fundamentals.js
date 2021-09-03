@@ -5,7 +5,7 @@ export const fundamentalsCollection = {
 			name: "1학기",
 			skills: [
 				{
-					name: "Syntax",
+					name: "이산수학",
 					description: {
 						text: "Discrete Mathematics",
 						links: [

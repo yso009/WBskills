@@ -1,29 +1,28 @@
 export const fundamentalsCollection = {
-	name: "Fundamentals",
+	name: "1학년",
 	areas: [
 		{
-			name: "HTML",
+			name: "1학기",
 			skills: [
 				{
 					name: "이산수학",
 					description: {
-						text: "Learn the basics of HTML and get comfortable with it's syntax and main concepts.",
+						text: "Discrete Mathematics",
 						links: [
-							["MDN - HTML Basics", "https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics"],
-							["MDN - Introduction to HTML", "https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML"],
-							["Codecademy - Learn HTML", "https://www.codecademy.com/learn/learn-html"],
+							["이수 구분 : 전필", ""],
+							["교과목 번호 : 5111001", ""],
+							["학점 : 3-3-0", ""],
 						]
 					},
 					skills: [
 						{
 							name: "Basic Tags",
 							description: {
-								text: "Get familiar with the basic HTML tags",
+								text: "Adventure Design",
 								links: [
-									["MDN - HTML elements reference", "https://developer.mozilla.org/en-US/docs/Web/HTML/Element"],
-									["Tutorialspoint - Basic HTML tags", "https://www.tutorialspoint.com/html/html_basic_tags.htm"],
-									["Elated - First 10 HTML tags", "https://www.elated.com/first-10-html-tags/"],
-									["W3Schools - HTML tags", "https://www.w3schools.com/tags/ref_byfunc.asp"]
+									["이수 구분 : 전선", ""],
+									["교과목 번호 : 5111004", ""],
+									["학점 : 2-0-4", ""],
 								]
 							},
 						},
@@ -32,11 +31,11 @@ export const fundamentalsCollection = {
 				{
 					name: "Forms",
 					description: {
-						text: "Learn how to design efficient forms, validating them effectively and keeping the user informed along the way.",
+						text: "Exploration of Future Planning",
 						links: [
-							["MDN - HTML forms", "https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms"],
-							["Google Web - Forms", "https://developers.google.com/web/fundamentals/design-and-ux/input/forms/"],
-							["W3Schools - Forms", "https://www.w3schools.com/html/html_forms.asp"],
+							["이수구분 : 전선", ""],
+							["교과목 번호 : 5111081", ""],
+							["학점 : 1-0-2", ""],
 						]
 					}
 				},
@@ -89,59 +88,38 @@ export const fundamentalsCollection = {
 			]
 		},
 		{
-			name: "CSS",
+			name: "2학기",
 			skills: [
 				{
 					name: "Syntax",
 					description: {
-						text: "Learn the basics of CSS and get comfortable with it's syntax and main concepts.",
+						text: "Introduction to Computer Systems",
 						links: [
-							["MDN - CSS Basics", "https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics"],
-							["W3Schools - CSS Tutorial", "https://www.w3schools.com/css/default.asp"],
-							["Supercharged - CSS Selectors", "https://www.youtube.com/watch?v=IKho_xDKaLw"],
-							["MDN - CSS first steps", "https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps"],
-							["MDN - CSS building blocks", "https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks"],
-							["MDN - CSS values and units", "https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Values_and_units"],
-							["MDN - CSS Syntax", "https://developer.mozilla.org/en-US/docs/Web/CSS/Syntax"],
+							["이수 구분 : 전필", ""],
+							["교과목 번호 : 5111002", ""],
+							["학점 : 3-3-0", ""],
 						]
 					}
 				},
 				{
 					name: "Selectors",
 					description: {
-						text: "Learn about CSS selectors and how to effeciently target DOM elements.",
+						text: "Introduction to Open Source SW",
 						links: [
-							["MDN - CSS selectors", "https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors"],
-							["MDN - All selectors", "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors"],
-							["CSS Tricks - Child and Sibling Selectors", "https://css-tricks.com/child-and-sibling-selectors/"],
-							["CSS Tricks - All Selectors", "https://css-tricks.com/almanac/selectors/"],
-							["W3Schools - CSS Combinators", "https://www.w3schools.com/css/css_combinators.asp"]
+							["이수 구분 : 전필", ""],
+							["교과목 번호 : 5111080", ""],
+							["학점 : 2-1-2", ""],
 						]
 					},
 					skills: [
 						{
 							name: "Specificity",
 							description: {
-								text: "Learn what specificity means and how to use it when writing CSS.",
+								text: "Preparation of Future Design",
 								links: [
-									["MDN - Specificity", "https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity"],
-									["MDN - Cascade and inheritance", "https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Cascade_and_inheritance"],
-									["dev.to - CSS Specificity", "https://dev.to/emmawedekind/css-specificity-1kca"],
-									["Specificity Calculator", "https://specificity.keegan.st/"],
-									["W3Schools - CSS Specificity", "https://www.w3schools.com/css/css_specificity.asp"]
-								]
-							},
-						},
-						{
-							name: "Pseudo Selectors",
-							description: {
-								text: "Learn how to use pseudo selectors.",
-								links: [
-									["MDN - Pseudo-classes", "https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes"],
-									["CSS Tricks - Meet the Pseudo Class Selectors", "https://css-tricks.com/pseudo-class-selectors/"],
-									["When do the :hover, :focus, and :active pseudo-classes apply?", "https://bitsofco.de/when-do-the-hover-focus-and-active-pseudo-classes-apply/"],
-									["W3Schools - CSS Pseudo-elements", "https://www.w3schools.com/css/css_pseudo_elements.asp"],
-									["W3Schools - CSS Pseudo-classes", "https://www.w3schools.com/css/css_pseudo_classes.asp"],
+									["이수 구분 : 전선", ""],
+									["교과목 번호 : 5111082", ""],
+									["학점 : 1-0-2", ""],
 								]
 							},
 						},

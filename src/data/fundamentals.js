@@ -123,7 +123,7 @@ export const fundamentalsCollection = {
 								]
 							},
 						},
-					]
+					] 
 				},
 				{
 					name: "미래설계준비",

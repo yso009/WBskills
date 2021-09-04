@@ -69,7 +69,7 @@ export const fundamentalsCollection = {
 				{
 					name: "미래설계준비",
 					description: {
-						text: "Learn what the CSS box model means.",
+						text: "Learn what the CSS box modelS means.",
 						links: [
 							["MDN - Introduction to the CSS basic box model", "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model/Introduction_to_the_CSS_box_model"],
 							["MDN - The box model", "https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model"],

@@ -5,7 +5,7 @@ export const fundamentalsCollection = {
 			name: "1학기",
 			skills: [
 				{
-					name: "Syntax",
+					name: "이산수학",
 					description: {
 						text: "Discrete Mathematics",
 						links: [
@@ -29,7 +29,7 @@ export const fundamentalsCollection = {
 					]
 				},
 				{
-					name: "Forms",
+					name: "창의공학설계",
 					description: {
 						text: "Exploration of Future Planning",
 						links: [
@@ -40,7 +40,7 @@ export const fundamentalsCollection = {
 					}
 				},
 				{
-					name: "SEO",
+					name: "미래설계탐색",
 					description: {
 						text: "Learn how to make your content search-friendly.",
 						links: [
@@ -91,7 +91,7 @@ export const fundamentalsCollection = {
 			name: "2학기",
 			skills: [
 				{
-					name: "Syntax",
+					name: "컴퓨터시스템개론",
 					description: {
 						text: "Introduction to Computer Systems",
 						links: [
@@ -102,7 +102,7 @@ export const fundamentalsCollection = {
 					}
 				},
 				{
-					name: "Selectors",
+					name: "오픈소스소프트웨어이해와실습",
 					description: {
 						text: "Introduction to Open Source SW",
 						links: [
@@ -113,7 +113,7 @@ export const fundamentalsCollection = {
 					},
 					skills: [
 						{
-							name: "Specificity",
+							name: "",
 							description: {
 								text: "Preparation of Future Design",
 								links: [
@@ -126,7 +126,7 @@ export const fundamentalsCollection = {
 					]
 				},
 				{
-					name: "Box Model",
+					name: "미래설계준비",
 					description: {
 						text: "Learn what the CSS box model means.",
 						links: [

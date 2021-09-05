@@ -24,7 +24,7 @@ export const designAndUXCollection = {
 								links: [
 									["Color Theory: Brief Guide For Designers", "https://uxplanet.org/color-theory-brief-guide-for-designers-76e11c57eaa"],
 									["Color theory and the color wheel", "https://www.canva.com/colors/color-wheel/"],
-									["The fundamentals of understanding color theory", "https://99designs.dk/blog/tips/the-7-step-guide-to-understanding-color-theory/"],
+									["The 1학년 of understanding color theory", "https://99designs.dk/blog/tips/the-7-step-guide-to-understanding-color-theory/"],
 									["Adobe - Color wheel", "https://color.adobe.com/"],
 								]
 							},

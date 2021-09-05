@@ -1,114 +1,161 @@
 export const webcomponentsCollection = {
-	name: "Web Components",
+	name: "3학년",
 	areas: [
 		{
+			name: "1학기",
 			skills: [
 				{
-					name: "Custom Elements",
+					name: "운영체제",
 					description: {
-						text: "Learn how to create new HTML tags with Custom Elements.",
+						text: "운영체제",
 						links: [
-							["Google Devs - Custom Elements", "https://developers.google.com/web/fundamentals/web-components/customelements"],
-							["MDN - Using Custom Elements", "https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_custom_elements"],
-							["CSS Tricks - Creating a Custom Element from Scratch", "https://css-tricks.com/creating-a-custom-element-from-scratch/"],
-							["Javascript.info - Custom Elements", "https://javascript.info/custom-elements"],
-							["dev.to - An introduction to Custom Elements", "https://dev.to/jamesrweb/an-introduction-to-custom-elements-5327"],
-							["itnext - Introduction to Web Components", "https://itnext.io/introduction-to-web-components-part-i-custom-elements-4de6713cef9d"],
-							["web.dev - Web Components", "https://web.dev/web-components-io-2019/"]
-						]
-					}
-				},
-				{
-					name: "HTML Templates",
-					description: {
-						text: "Learn how to use HTML templates to create flexible templates that can then be used to populate the Shadow DOM.",
-						links: [
-							["MDN - Using Templates & Slots", "https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_templates_and_slots"],
-							["Javascript.info - Template Element", "https://javascript.info/template-element"],
-							["MDN - The Content Template element", "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/template"]
+							["이수 구분 : 전필", ""],
+							["교과목 번호 : 5111001", ""],
+							["학점 : 3-3-0", ""],
 						]
 					},
-				},
-				{
-					name: "Shadow DOM",
-					description: {
-						text: "Learn how to encapsulate your CSS using Shadow DOM.",
-						links: [
-							["Google Devs - Shadow DOM", "https://developers.google.com/web/fundamentals/web-components/shadowdom"],
-							["MDN - Using Shadow DOM", "https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_shadow_DOM"],
-							["MDN - Shadow Tree", "https://developer.mozilla.org/en-US/docs/Glossary/Shadow_tree"],
-							["CSS Tricks - Encapsulating Style and Structure", "https://css-tricks.com/encapsulating-style-and-structure-with-shadow-dom/"],
-							["itnext - Introduction to Web Components", "https://itnext.io/introduction-to-web-components-part-ii-shadow-dom-8d1d8e126332"],
-							["Monica - Shadow DOM: fast and encapsulated styles", "https://meowni.ca/posts/shadow-dom/"]
 
+				},
+				{
+					name: "객채지향 설계",
+					description: {
+						text: "Exploration of Future Planning",
+						links: [
+							["이수구분 : 전선", ""],
+							["교과목 번호 : 5111081", ""],
+							["학점 : 1-0-2", ""],
+						]
+					}
+				},
+				{
+					name: "오픈소스 웹소프트웨어",
+					description: {
+						text: "Learn how to make your content search-friendly.",
+						links: [
+							["web.dev - Discoverable", "https://web.dev/discoverable"],
+							["Google Search - Get Started", "https://developers.google.com/search/docs/guides/get-started"],
+							["Google Search - SEO basics", "https://developers.google.com/search/docs/guides/javascript-seo-basics"],
+							["web.dev - SEO audits", "https://web.dev/lighthouse-seo"]
 						]
 					},
-					skills: [
-						{
-							name: "Shadow Parts",
-							description: {
-								text: "Learn how to style the inside of a shadow tree from outside of that Shadow Tree by using Shadow Parts.",
-								links: [
-									["Fergald - CSS Shadow ::part and ::theme", "https://github.com/fergald/docs/blob/master/explainers/css-shadow-parts-1.md"],
-									["MDN - ::part", "https://developer.mozilla.org/en-US/docs/Web/CSS/::part"],
-									["W3C - CSS Shadow Parts", "https://www.w3.org/TR/css-shadow-parts-1/"],
-									["Monica - ::part and ::theme, an explainer", "https://meowni.ca/posts/part-theme-explainer/"],
-									["Youtube - CSS Shadow Parts", "https://www.youtube.com/watch?v=yVrvOueeb3s"],
-									["Chrome Status - ::part and ::theme", "https://www.chromestatus.com/features/5763933658939392"]
-								]
-							}
-						},
-						{
-							name: "Slots",
-							description: {
-								text: "Learn how to compose Custom Elements by using slots.",
-								links: [
-									["Alligator.io - Composing Custom Elements", "https://alligator.io/web-components/composing-slots-named-slots/"],
-									["Javascript.info - Slots Composition", "https://javascript.info/slots-composition"],
-									["MDN - HTML <slot> element", "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/slot"],
-									["Component.kitchen - A history of the HTML slot element", "https://component.kitchen/blog/posts/a-history-of-the-html-slot-element"],
-								]
-							}
-						}
-					]
 				},
 				{
-					name: "Best practices",
+					name: "컴파일러",
 					description: {
-						text: "Get familiar with best practices when it comes to building Web Components.",
+						text: "Learn how to work with SVG files to make graphics look crisp across all screen resolutions.",
 						links: [
-							["Google Devs - Custom Element Best Practices", "https://developers.google.com/web/fundamentals/web-components/best-practices"],
-							["Webcomponents.org - Web Components Best Practices", "https://www.webcomponents.org/community/articles/web-components-best-practices"],
-							["mateusortiz - Web Components the Right Way", "https://github.com/mateusortiz/webcomponents-the-right-way"],
-							["dev.to - Making Web Components for Different Contexts", "https://dev.to/equinusocio/making-web-components-for-different-contexts-25ed"]
+							["MDN - Adding vector graphics to the Web", "https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Adding_vector_graphics_to_the_Web"],
+							["SVG on the web", "https://svgontheweb.com/"],
 						]
 					}
 				},
 				{
-					name: "Constructible Stylesheets",
+					name: "컴퓨터네트워크",
 					description: {
-						text: "Learn how the Constructible Stylesheets proposal enables reusable styles when using shadow dom.",
+						text: "Learn the best practices of writing HTML.",
 						links: [
-							["Google Devs - Constructable Stylesheets", "https://developers.google.com/web/updates/2019/02/constructable-stylesheets"],
-							["W3C - Constructable Stylesheet Objects", "https://wicg.github.io/construct-stylesheets/"],
-							["dev.to - Why Would Anyone Use Constructible Stylesheets", "https://dev.to/westbrook/why-would-anyone-use-constructible-stylesheets-anyways-19ng"],
-							["Benjamin Farrel - Adopt a Design System", "https://medium.com/swlh/adopt-a-design-system-inside-your-web-components-with-constructable-stylesheets-dd24649261e"],
-							["WICG - Constructable Stylesheet Objects", "https://github.com/WICG/construct-stylesheets/blob/gh-pages/explainer.md"],
-							["Chrome Status - Constructible Stylesheets", "https://www.chromestatus.com/feature/5394843094220800"]
+							["MDN - HTML guidelines", "https://developer.mozilla.org/en-US/docs/MDN/Contribute/Guidelines/Code_guidelines/HTML"],
+							["W3Schools - HTML Coding Conventions", "https://www.w3schools.com/html/html5_syntax.asp"]
 						]
 					}
 				},
 				{
-					name: "Form Participation",
+					name: "창업기획",
 					description: {
-						text: "Learn how the Form Participation API proposal enables elements, other than built-in form control elements, to participate in form submission and validation.",
+						text: "Learn the best practices of writing HTML.",
 						links: [
-							["Form Participation API Explained", "https://docs.google.com/document/d/1JO8puctCSpW-ZYGU8lF-h4FWRIDQNDVexzHoOQ2iQmY/edit"],
-							["Chrome Status - Form-associated custom elements", "https://www.chromestatus.com/features/4708990554472448"],
-							["web-platform-tests - Form Participation", "https://github.com/web-platform-tests/wpt/tree/master/custom-elements/form-associated"],
-							["Google Devs - Form-associated custom elements", "https://developers.google.com/web/updates/2019/09/nic77#form-associated_custom_elements"],
-							["web.dev - More capable form controls", "https://web.dev/more-capable-form-controls/"],
-							["W3C - Creating a form-associated custom element", "https://html.spec.whatwg.org/multipage/custom-elements.html#custom-elements-face-example"],
+							["MDN - HTML guidelines", "https://developer.mozilla.org/en-US/docs/MDN/Contribute/Guidelines/Code_guidelines/HTML"],
+							["W3Schools - HTML Coding Conventions", "https://www.w3schools.com/html/html5_syntax.asp"]
+						]
+					}
+				},
+				{
+					name: "오픈소스 전문프로젝트",
+					description: {
+						text: "Learn the best practices of writing HTML.",
+						links: [
+							["MDN - HTML guidelines", "https://developer.mozilla.org/en-US/docs/MDN/Contribute/Guidelines/Code_guidelines/HTML"],
+							["W3Schools - HTML Coding Conventions", "https://www.w3schools.com/html/html5_syntax.asp"]
+						]
+					}
+				}
+			]
+		},
+		{
+			name: "2학기",
+			skills: [
+				{
+					name: "소프트웨어공학",
+					description: {
+						text: "Introduction to Computer Systems",
+						links: [
+							["이수 구분 : 전필", ""],
+							["교과목 번호 : 5111002", ""],
+							["학점 : 3-3-0", ""],
+						]
+					}
+				},
+				{
+					name: "산학프로젝트",
+					description: {
+						text: "Introduction to Open Source SW",
+						links: [
+							["이수 구분 : 전필", ""],
+							["교과목 번호 : 5111080", ""],
+							["학점 : 2-1-2", ""],
+						]
+					},
+
+				},
+				{
+					name: "펌웨어프로그래밍",
+					description: {
+						text: "Learn what the CSS box model means.",
+						links: [
+							["MDN - Introduction to the CSS basic box model", "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model/Introduction_to_the_CSS_box_model"],
+							["MDN - The box model", "https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model"],
+							["CSS Tricks - Inheriting box-sizing", "https://css-tricks.com/inheriting-box-sizing-probably-slightly-better-best-practice/"],
+						]
+					},
+
+				},
+				{
+					name: "창업설계",
+					description: {
+						text: "Learn the best practices of writing HTML.",
+						links: [
+							["MDN - HTML guidelines", "https://developer.mozilla.org/en-US/docs/MDN/Contribute/Guidelines/Code_guidelines/HTML"],
+							["W3Schools - HTML Coding Conventions", "https://www.w3schools.com/html/html5_syntax.asp"]
+						]
+					}
+				},
+				{
+					name: "정보보호",
+					description: {
+						text: "Learn the best practices of writing HTML.",
+						links: [
+							["MDN - HTML guidelines", "https://developer.mozilla.org/en-US/docs/MDN/Contribute/Guidelines/Code_guidelines/HTML"],
+							["W3Schools - HTML Coding Conventions", "https://www.w3schools.com/html/html5_syntax.asp"]
+						]
+					}
+				},
+				{
+					name: "인공지능",
+					description: {
+						text: "Learn the best practices of writing HTML.",
+						links: [
+							["MDN - HTML guidelines", "https://developer.mozilla.org/en-US/docs/MDN/Contribute/Guidelines/Code_guidelines/HTML"],
+							["W3Schools - HTML Coding Conventions", "https://www.w3schools.com/html/html5_syntax.asp"]
+						]
+					}
+				},
+				{
+					name: "데이터베이스시스템",
+					description: {
+						text: "Learn the best practices of writing HTML.",
+						links: [
+							["MDN - HTML guidelines", "https://developer.mozilla.org/en-US/docs/MDN/Contribute/Guidelines/Code_guidelines/HTML"],
+							["W3Schools - HTML Coding Conventions", "https://www.w3schools.com/html/html5_syntax.asp"]
 						]
 					}
 				}

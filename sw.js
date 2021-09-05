@@ -4,7 +4,7 @@ const CACHE_NAME = `${APP_PREFIX}-v${SW_VERSION}`;
 const DEBUG = false;
 const URLS_TO_CACHE = [
 	"",
-	"index.html",
+	"index.1학기",
 	"src/app.js",
 	"src/config.js",
 	"src/data.js",
@@ -33,14 +33,14 @@ const URLS_TO_CACHE = [
 	"src/data/databases.js",
 	"src/data/design-and-ux.js",
 	"src/data/frameworks-and-libraries.js",
-	"src/data/fundamentals.js",
+	"src/data/1학년.js",
 	"src/data/modern.js",
 	"src/data/pwa.js",
 	"src/data/team-collaboration.js",
 	"src/data/testing.js",
 	"src/data/web-components.js",
 	"src/styles/shared.js",
-	"src/styles/global.css",
+	"src/styles/global.2학기",
 	"web_modules/web-dialog.js"
 ];
 

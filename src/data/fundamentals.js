@@ -18,23 +18,22 @@ export const fundamentalsCollection = {
 				{
 					name: "창의공학설계",
 					description: {
-						text: "Exploration of Future Planning",
+						text: "Adventure Design",
 						links: [
 							["이수구분 : 전선", ""],
-							["교과목 번호 : 5111081", ""],
-							["학점 : 1-0-2", ""],
+							["교과목 번호 : 5111004", ""],
+							["학점 : 2-0-4", ""],
 						]
 					}
 				},
 				{
 					name: "미래설계탐색",
 					description: {
-						text: "Learn how to make your content search-friendly.",
+						text: "Exploration of Future Planning",
 						links: [
-							["web.dev - Discoverable", "https://web.dev/discoverable"],
-							["Google Search - Get Started", "https://developers.google.com/search/docs/guides/get-started"],
-							["Google Search - SEO basics", "https://developers.google.com/search/docs/guides/javascript-seo-basics"],
-							["web.dev - SEO audits", "https://web.dev/lighthouse-seo"]
+							["이수 구분 : 전선", ""],
+							["교과목 번호 : 5111081", ""],
+							["학점 : 1-0-2", ""],
 						]
 					}
 				},
@@ -69,11 +68,11 @@ export const fundamentalsCollection = {
 				{
 					name: "미래설계준비",
 					description: {
-						text: "Learn what the CSS box modelS means.",
+						text: "Preparation of Future Design",
 						links: [
-							["MDN - Introduction to the CSS basic box model", "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model/Introduction_to_the_CSS_box_model"],
-							["MDN - The box model", "https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model"],
-							["CSS Tricks - Inheriting box-sizing", "https://css-tricks.com/inheriting-box-sizing-probably-slightly-better-best-practice/"],
+							["이수 구분 : 전선", ""],
+							["교과목 번호 : ", ""],
+							["학점 : 1-0-2", ""],
 						]
 					},
 

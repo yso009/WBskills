@@ -7,75 +7,79 @@ export const webcomponentsCollection = {
 				{
 					name: "운영체제",
 					description: {
-						text: "운영체제",
+						text: "Operation Systems",
 						links: [
 							["이수 구분 : 전필", ""],
-							["교과목 번호 : 5111001", ""],
+							["교과목 번호 : 5111015", ""],
 							["학점 : 3-3-0", ""],
 						]
 					},
 
 				},
 				{
-					name: "객채지향 설계",
+					name: "객체지향 설계",
 					description: {
-						text: "Exploration of Future Planning",
+						text: "Object-Oriented Design",
 						links: [
-							["이수구분 : 전선", ""],
-							["교과목 번호 : 5111081", ""],
-							["학점 : 1-0-2", ""],
+							["이수구분 : 전필", ""],
+							["교과목 번호 : 5111016", ""],
+							["학점 : 3-3-1", ""],
 						]
 					}
 				},
+
 				{
 					name: "오픈소스 웹소프트웨어",
 					description: {
-						text: "Learn how to make your content search-friendly.",
+						text: "Open Source Web SW",
 						links: [
-							["web.dev - Discoverable", "https://web.dev/discoverable"],
-							["Google Search - Get Started", "https://developers.google.com/search/docs/guides/get-started"],
-							["Google Search - SEO basics", "https://developers.google.com/search/docs/guides/javascript-seo-basics"],
-							["web.dev - SEO audits", "https://web.dev/lighthouse-seo"]
+							["이수 구분 : 전선", ""],
+							["교과목 번호 : 5111087", ""],
+							["학점 : 3-3-2", ""]
 						]
 					},
 				},
 				{
 					name: "컴파일러",
 					description: {
-						text: "Learn how to work with SVG files to make graphics look crisp across all screen resolutions.",
+						text: "Compiler",
 						links: [
-							["MDN - Adding vector graphics to the Web", "https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Adding_vector_graphics_to_the_Web"],
-							["SVG on the web", "https://svgontheweb.com/"],
+							["이수 구분 : 전선", ""],
+							["교과목 번호 : 5111023", ""],
+							["학점 : 3-3-1", ""]
 						]
 					}
 				},
 				{
 					name: "컴퓨터네트워크",
 					description: {
-						text: "Learn the best practices of writing HTML.",
+						text: "Computer Networks",
 						links: [
-							["MDN - HTML guidelines", "https://developer.mozilla.org/en-US/docs/MDN/Contribute/Guidelines/Code_guidelines/HTML"],
-							["W3Schools - HTML Coding Conventions", "https://www.w3schools.com/html/html5_syntax.asp"]
+							["이수 구분 : 전선", ""],
+							["교과목 번호 : 5111025", ""],
+							["학점 : 3-3-0", ""]
 						]
 					}
 				},
 				{
 					name: "창업기획",
 					description: {
-						text: "Learn the best practices of writing HTML.",
+						text: "Start-up Planning",
 						links: [
-							["MDN - HTML guidelines", "https://developer.mozilla.org/en-US/docs/MDN/Contribute/Guidelines/Code_guidelines/HTML"],
-							["W3Schools - HTML Coding Conventions", "https://www.w3schools.com/html/html5_syntax.asp"]
+							["이수 구분 : 전선", ""],
+							["교과목 번호 : 5111088", ""],
+							["학점 : 1-0-2", ""]
 						]
 					}
 				},
 				{
 					name: "오픈소스 전문프로젝트",
 					description: {
-						text: "Learn the best practices of writing HTML.",
+						text: "Application of Open Source SW Project",
 						links: [
-							["MDN - HTML guidelines", "https://developer.mozilla.org/en-US/docs/MDN/Contribute/Guidelines/Code_guidelines/HTML"],
-							["W3Schools - HTML Coding Conventions", "https://www.w3schools.com/html/html5_syntax.asp"]
+							["이수 구분 : 전선", ""],
+							["교과목 번호 : 5111071", ""],
+							["학점 : 2-0-4", ""]
 						]
 					}
 				}
@@ -87,22 +91,22 @@ export const webcomponentsCollection = {
 				{
 					name: "소프트웨어공학",
 					description: {
-						text: "Introduction to Computer Systems",
+						text: "Software Engineering",
 						links: [
 							["이수 구분 : 전필", ""],
-							["교과목 번호 : 5111002", ""],
+							["교과목 번호 : 5111024", ""],
 							["학점 : 3-3-0", ""],
 						]
 					}
 				},
 				{
-					name: "산학프로젝트",
+					name: "산학프로젝트(종합설계)",
 					description: {
-						text: "Introduction to Open Source SW",
+						text: "Interlink Project Practice, Comprehensive Design",
 						links: [
 							["이수 구분 : 전필", ""],
-							["교과목 번호 : 5111080", ""],
-							["학점 : 2-1-2", ""],
+							["교과목 번호 : 5111061", ""],
+							["학점 : 2-0-4", ""],
 						]
 					},
 
@@ -110,11 +114,11 @@ export const webcomponentsCollection = {
 				{
 					name: "펌웨어프로그래밍",
 					description: {
-						text: "Learn what the CSS box model means.",
+						text: "Firmware Programming",
 						links: [
-							["MDN - Introduction to the CSS basic box model", "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model/Introduction_to_the_CSS_box_model"],
-							["MDN - The box model", "https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model"],
-							["CSS Tricks - Inheriting box-sizing", "https://css-tricks.com/inheriting-box-sizing-probably-slightly-better-best-practice/"],
+							["이수 구분 : 전선", ""],
+							["교과목 번호 : 5111045", ""],
+							["학점 : 3-2-2", ""]
 						]
 					},
 
@@ -122,40 +126,44 @@ export const webcomponentsCollection = {
 				{
 					name: "창업설계",
 					description: {
-						text: "Learn the best practices of writing HTML.",
+						text: "Start-up Challenge",
 						links: [
-							["MDN - HTML guidelines", "https://developer.mozilla.org/en-US/docs/MDN/Contribute/Guidelines/Code_guidelines/HTML"],
-							["W3Schools - HTML Coding Conventions", "https://www.w3schools.com/html/html5_syntax.asp"]
+							["이수 구분 : 전선", ""],
+							["교과목 번호 : 5111089", ""],
+							["학점 : 1-0-2", ""]
 						]
 					}
 				},
 				{
 					name: "정보보호",
 					description: {
-						text: "Learn the best practices of writing HTML.",
+						text: "Information Security",
 						links: [
-							["MDN - HTML guidelines", "https://developer.mozilla.org/en-US/docs/MDN/Contribute/Guidelines/Code_guidelines/HTML"],
-							["W3Schools - HTML Coding Conventions", "https://www.w3schools.com/html/html5_syntax.asp"]
+							["이수 구분 : 전선", ""],
+							["교과목 번호 : 5111041", ""],
+							["학점 : 3-3-0", ""]
 						]
 					}
 				},
 				{
 					name: "인공지능",
 					description: {
-						text: "Learn the best practices of writing HTML.",
+						text: "Artificial Intelligence",
 						links: [
-							["MDN - HTML guidelines", "https://developer.mozilla.org/en-US/docs/MDN/Contribute/Guidelines/Code_guidelines/HTML"],
-							["W3Schools - HTML Coding Conventions", "https://www.w3schools.com/html/html5_syntax.asp"]
+							["이수 구분 : 전선", ""],
+							["교과목 번호 : 5111033", ""],
+							["학점 : 3-3-0", ""]
 						]
 					}
 				},
 				{
 					name: "데이터베이스시스템",
 					description: {
-						text: "Learn the best practices of writing HTML.",
+						text: "Database Systems",
 						links: [
-							["MDN - HTML guidelines", "https://developer.mozilla.org/en-US/docs/MDN/Contribute/Guidelines/Code_guidelines/HTML"],
-							["W3Schools - HTML Coding Conventions", "https://www.w3schools.com/html/html5_syntax.asp"]
+							["이수 구분 : 전선", ""],
+							["교과목 번호 : 5111026", ""],
+							["학점 : 3-3-1", ""]
 						]
 					}
 				}

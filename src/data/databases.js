@@ -466,7 +466,7 @@ export const databasesCollection = {
 							["Express", "https://expressjs.com/"],
 							["Tutorialspoint - Express Framework", "https://www.tutorialspoint.com/nodejs/nodejs_express_framework.htm"],
 							["Youtube - Express.js & Node.js Course for Beginners", "https://www.youtube.com/watch?v=G8uL0lFFoN0"],
-							["Understanding Node.js & Express.js fundamentals", "https://medium.com/@LindaVivah/the-beginners-guide-understanding-node-js-express-js-fundamentals-e15493462be1"],
+							["Understanding Node.js & Express.js 1학년", "https://medium.com/@LindaVivah/the-beginners-guide-understanding-node-js-express-js-fundamentals-e15493462be1"],
 							["Wikipedia - Express.js", "https://en.wikipedia.org/wiki/Express.js"],
 						]
 					},

@@ -1,5 +1,5 @@
 export const fundamentalsCollection = {
-	name: "1학년",
+	name: "Freshman",
 	areas: [
 		{
 			name: "1학기",

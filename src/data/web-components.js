@@ -1,5 +1,5 @@
 export const webcomponentsCollection = {
-	name: "3학년",
+	name: "Junior",
 	areas: [
 		{
 			name: "1학기",

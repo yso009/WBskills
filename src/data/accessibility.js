@@ -39,7 +39,7 @@ export const accessibilityCollection = {
 
 				},
 				{
-					name: "객체지향 프로그래밍",
+					name: "객체지향프로그래밍",
 					description: {
 						text: "Object-Oriented Programming",
 						links: [
@@ -73,7 +73,7 @@ export const accessibilityCollection = {
 
 				},
 				{
-					name: "오픈소스 기초프로젝트",
+					name: "오픈소스기초프로젝트",
 					description: {
 						text: "Fundamental of Open Source SW Project",
 						links: [
@@ -100,7 +100,7 @@ export const accessibilityCollection = {
 					}
 				},
 				{
-					name: "프로그래밍언어이론",
+					name: "프로그래밍언어론",
 					description: {
 						text: "Principles of Programming Languages",
 						links: [

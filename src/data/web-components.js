@@ -17,7 +17,7 @@ export const webcomponentsCollection = {
 
 				},
 				{
-					name: "객체지향 설계",
+					name: "객체지향설계",
 					description: {
 						text: "Object-Oriented Design",
 						links: [
@@ -29,7 +29,7 @@ export const webcomponentsCollection = {
 				},
 
 				{
-					name: "오픈소스 웹소프트웨어",
+					name: "오픈소스웹소프트웨어",
 					description: {
 						text: "Open Source Web SW",
 						links: [
@@ -73,7 +73,7 @@ export const webcomponentsCollection = {
 					}
 				},
 				{
-					name: "오픈소스 전문프로젝트",
+					name: "오픈소스전문프로젝트",
 					description: {
 						text: "Application of Open Source SW Project",
 						links: [
@@ -100,7 +100,7 @@ export const webcomponentsCollection = {
 					}
 				},
 				{
-					name: "산학프로젝트(종합설계)",
+					name: "산학프로젝트",
 					description: {
 						text: "Interlink Project Practice, Comprehensive Design",
 						links: [

@@ -110,7 +110,7 @@ export const pwaCollection = {
 					}
 				},
 				{
-					name: "정보,컴퓨터교재연구 및 지도법",
+					name: "정보,컴퓨터교재연구및지도법",
 					description: {
 						text: "Learn how to handle inputs from pointing devices such as a mouse, pen/stylus or touch.",
 						links: [
@@ -207,7 +207,7 @@ export const pwaCollection = {
 					}
 				},
 				{
-					name: "정보,컴퓨터논리 및 논술",
+					name: "정보,컴퓨터논리및논술",
 					description: {
 						text: "Learn how to use tree shaking to eliminate dead code.",
 						links: [
@@ -227,7 +227,7 @@ export const pwaCollection = {
 					}
 				},
 				{
-					name: "자연언어 처리",
+					name: "자연언어처리",
 					description: {
 						text: "Learn how to use the PRPL pattern to make web apps more performant.",
 						links: [
